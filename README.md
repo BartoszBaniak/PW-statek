@@ -1,1 +1,2 @@
 # PW-statek
+Przy nabrzeżu stoi statek o pojemności N. Statek z lądem jest połączony mostkiem o pojemności K (K<N). Na statek próbują dostać się pasażerowie, z tym, że na statek nie może ich wejść więcej niż N, a wchodząc na statek na mostku nie może być ich równocześnie więcej niż K. Statek co jedną godzinę wypływa w rejs. W momencie odpływania kapitan statku musi dopilnować, aby na mostku nie było żadnego wchodzącego pasażera. Jednocześnie musi dopilnować by liczba pasażerów na statku nie przekroczyła N.
